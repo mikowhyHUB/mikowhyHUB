@@ -10,13 +10,6 @@ I really enjoy learning Python and everything related to it.
 * 💾 C
 * tba
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Python 
-- 📫 How to reach me: mikolaj.kalisz@gmail.com  
-- ⚡ Fun fact: my dog can't bark 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mikowhyHUB)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mikobczak/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_mikowhy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_mikowhy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/_mikowhy)  
 
