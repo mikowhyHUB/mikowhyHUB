@@ -1,5 +1,5 @@
 # Welcome on my GitHub profile👋
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://raw.githubusercontent.com/mikowhyHUB/mikowhyHUB/main/ms_banner.png)
 
 # Mikołaj Sobczak
 I'm a self-taught passionate BackEnd developer from Poland🇵🇱. 
