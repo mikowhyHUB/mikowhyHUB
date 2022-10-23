@@ -10,6 +10,8 @@ I really enjoy learning Python and everything related to it.
 * 💾 C
 * tba
 
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: mikolaj.kalisz@gmail.com  
