@@ -1,4 +1,4 @@
-# Welcome on my GitHub profile👋
+# Welcome to my GitHub profile👋
 ![](https://raw.githubusercontent.com/mikowhyHUB/mikowhyHUB/main/ms_banner.png)
 
 # Mikołaj Sobczak
