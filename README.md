@@ -1,5 +1,5 @@
 # Welcome to my GitHub profile👋
-![](https://raw.githubusercontent.com/mikowhyHUB/mikowhyHUB/main/banner.png)
+
 
 Aspiring back-end developer🧑‍💻, willing to deliver as high-quality solutions as possible to your company. Excited to collaborate with clients, experienced developers and to learn more technologies🔥
 
