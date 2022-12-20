@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile👋
 ![](https://github.com/mikowhyHUB/mikowhyHUB/blob/main/ms_banner.png?raw=true)
 
-Aspiring back-end developer🧑‍💻, willing to deliver as high-quality solutions as possible to your company. Excited to collaborate with clients, experienced developers and to learn more technologies🔥
+Back-end developer🧑‍💻, willing to deliver as high-quality solutions as possible to your company. Excited to collaborate with clients, experienced developers, learn more technologies🔥
 
 If you are a recruiter, please check this project: [Tram Information for Hackerspace Trójmiasto](https://github.com/mikowhyHUB/hs3-traminformation)
 # Contact me
