@@ -3,7 +3,10 @@
 
 Back-end developer🧑‍💻, willing to deliver as high-quality solutions as possible to your company. Excited to collaborate with clients, experienced developers, learn more technologies🔥
 
-If you are a recruiter, please check this project: [Tram Information for Hackerspace Trójmiasto](https://github.com/mikowhyHUB/hs3-traminformation)
+If you are a recruiter, please check this projects: 
+- [Tram Information for Hackerspace Trójmiasto](https://github.com/mikowhyHUB/hs3-traminformation)
+- [Movie ratings](https://github.com/mikowhyHUB/movie-ratings)
+
 # Contact me
 Mail: mikolaj.kalisz@gmail.com 
 
