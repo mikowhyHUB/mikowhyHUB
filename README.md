@@ -6,6 +6,7 @@ Back-end developer🧑‍💻, willing to deliver as high-quality solutions as p
 If you are a recruiter, please check this projects: 
 - [Tram Information for Hackerspace Trójmiasto](https://github.com/mikowhyHUB/hs3-traminformation)
 - [Movie ratings](https://github.com/mikowhyHUB/movie-ratings)
+
 In progress:
 - [Typing Test Game](https://github.com/mikowhyHUB/typing-test)
 - [Caesar Cipher Project](https://github.com/mikowhyHUB/caesar-cipher)
