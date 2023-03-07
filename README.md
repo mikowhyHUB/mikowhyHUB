@@ -4,14 +4,6 @@
 My name is Mikołaj and I'm a self-taught programmer with a passion for Python. I've been able to develop strong programming skills through self-study and mentorship. I'm an active member of the Hackerspace Trojmiasto community, where I continue to learn and work on projects that challenge and expand my skills.
 
 
-## Skills
-- Python programming
-- Data structures and algorithms
-- Software development principles
-- SQL
-- Pytest
-
-
 ### Some of my projects:
 - [Tram Information for Hackerspace Trójmiasto](https://github.com/mikowhyHUB/hs3-traminformation)
 - [Caesar Cipher Project](https://github.com/mikowhyHUB/caesar-cipher)
