@@ -16,7 +16,7 @@
 
 
 # Contact me
-Mail: mikolaj.kalisz@gmail.com 
+Mail: dev.msobczak@gmail.com 
 
 Discord: MIKOWHY#1860
 
